@@ -1,7 +1,7 @@
 # react-redux-basic
 
 A React experiment that demonstrates using middleware to get data from an external source and then save in the Redux store.
-Using Action Creators for using async code in Redux
+Also added Async Redux action creators to simulate external data storing (2 sec delay), utility functions for leaner reducers, and split actions/reducers into more modular file structure.
 
 ### Redux Dev Tools
 
